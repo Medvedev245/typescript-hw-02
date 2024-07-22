@@ -13,5 +13,8 @@
   І так само визначте змінну, яка може приймати тільки одне з двох рядкових значень: 'enable' або 'disable' (literal type)?
 */
 
-// let union;
-// let literal;
+type types = string | number;
+type element = "enable" | "disable";
+
+let union: types;
+let literal: element;
