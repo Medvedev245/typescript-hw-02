@@ -15,6 +15,3 @@
 
 // let union;
 // let literal;
-
-let types: number | string;
-let eelements: "enable" | "disable";

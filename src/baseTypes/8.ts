@@ -6,6 +6,3 @@
 // const myGender: Gender;
 
 // export {};
-
-type Gender = "male" | "female";
-let myGender: Gender;

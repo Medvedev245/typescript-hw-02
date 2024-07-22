@@ -16,17 +16,3 @@
 // function isWeekend(day: Days): boolean {
 //   return day === Days.saturday || day === Days.sunday;
 // }
-
-enum Days {
-  monday = "monday",
-  tuesday = "tuesday",
-  wednesday = "wednesday",
-  thursday = "thursday",
-  friday = "friday",
-  saturday = "saturday",
-  sunday = "sunday",
-}
-
-function isWeekend(day: Days): boolean {
-  return day === Days.sunday || day === Days.saturday;
-}
