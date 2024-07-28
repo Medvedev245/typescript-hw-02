@@ -5,6 +5,13 @@
    працювати з будь-якими типами ключів та значень.
 */
 
+// interface KeyValuePair<T, U> {
+//   key: T;
+//   value: U;
+// }
+
+// export {};
+
 interface KeyValuePair<T, U> {
   key: T;
   value: U;
